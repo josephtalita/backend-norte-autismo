@@ -340,7 +340,7 @@ Agora o assistente:
         console.error("ERRO:", error);
 
         res.json({
-            reply: "Erro ao chamar IA",
+            reply: "O assistente está em fase final de ativação. Em breve ele estará disponível para responder com orientações personalizadas.",
         });
     }
 });
